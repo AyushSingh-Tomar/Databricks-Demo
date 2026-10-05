@@ -1,6 +1,3 @@
-Readme.md
-updated readme
-
 * I worked on the data provided for a set of treaties, converted and prepared the data into a usable format, and analysed it against the available subledger information. I also documented the possible reasons for segments that were not reconciling and validated the observations against the revised subledger.
 
 * I’ve also been assigned the next set of treaties covering the previous five years. I’m currently waiting for the corresponding subledger information, after which I’ll start working on the raw data analysis and reconciliation.
